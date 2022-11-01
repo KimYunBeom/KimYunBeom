@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **KimYunBeom/KimYunBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimYunBeom&langs_count=10&hide=html,php)](https://github.com/KimYunBeom/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimYunBeom&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimYunBeom&langs_count=10&hide=html,php)](https://github.com/KimYunBeom/github-readme-stats)
